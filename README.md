@@ -1,73 +1,47 @@
-# 👋 Hi, I'm Anurag Dangi
+# 👋 Hey there! I'm Anurag Dangi
 
-🎯 Passionate Software Developer from Indore, India  
-🌱 Always learning and building full-stack web applications  
-📫 Reach me at: anuragrajpoot2468@gmail.com  
-🌐 [Portfolio](#) | [LinkedIn](https://www.linkedin.com/in/anuragrajpoott) 
+🚀 Software Developer | Full Stack Web Dev | MERN | DSA++ | 🧠 Lifelong Learner | 🎭 Team Leader
 
----
-
-## 🧑‍💻 About Me
-
-I'm a Software Developer with hands-on experience in **Data Structures and Algorithms (C++)** and **Full-Stack Web Development** using the **MERN stack**. I enjoy building scalable, user-focused applications from the ground up, and I’m always seeking to improve by learning new technologies and best practices.
+I'm a passionate developer with a knack for problem-solving and a love for building full-stack web applications using the **MERN** stack. I focus on writing clean, maintainable code and enjoy turning complex problems into simple, beautiful solutions.
 
 ---
 
-## 🎓 Education
+## 🧑‍💻 Tech Stack & Tools
 
-**B.E. in Electronics**  
-_Institute of Engineering and Technology, DAVV_  
-📅 Sept 2022 – May 2026  
-Key Subjects: OOPS, DSA, Computer Networks, DBMS
-
-**XII (CBSE)**  
-_Deepak Memorial Academy, Sagar_  
-📅 Apr 2019 – Mar 2021
+**Languages:** C++, JavaScript, Python, SQL  
+**Frontend:** React.js, Redux, HTML, CSS, Tailwind CSS  
+**Backend:** Node.js, Express.js, MongoDB  
+**Tools & Platforms:** Git, GitHub, Postman, Docker, Vercel, Render  
+**Concepts:** REST APIs, JWT Auth, CRUD, CI/CD, Middleware
 
 ---
 
-## 🛠️ Skills & Tools
+## 💼 Featured Projects
 
-**Languages:** C, C++, Python, HTML, CSS, JavaScript, SQL  
-**Frameworks/Libraries:** React.js, Redux, Node.js, Express.js, Tailwind CSS  
-**Tools & Platforms:** Git, GitHub, VS Code, Postman, Docker, Render, Vercel, MongoDB  
-**Technologies:** REST APIs, JWT Auth, CRUD, Middleware, CORS, CI/CD
+### 🔹 Supportify – Mental Health Social Media
+> A safe digital space to track moods, connect, and share mental health reflections.  
+**Tech:** React.js, Node.js, MongoDB, Tailwind CSS, JWT
 
----
-
-## 🚀 Projects
-
-### 🔹 [Supportify – Social Media for Mental Health](#)
-- Built a platform for 50+ users to share moods and mental health reflections
-- Integrated 20+ mental health resources to foster a supportive digital community  
-- **Tech:** React.js, Node.js, Express.js, MongoDB, Tailwind CSS, JWT, REST APIs
-
-### 🔹 [Study Notion – EdTech Platform](#)
-- Empowered 200+ educators with real-time notifications and seamless authentication  
-- Reduced page load times by 30% for better UX and engagement  
-- **Tech:** React.js, Node.js, Express.js, MongoDB, Tailwind CSS, JWT, REST APIs
+### 🔹 Study Notion – EdTech Platform  
+> Empowered educators with dynamic content management, real-time features, and seamless UX.  
+**Tech:** MERN Stack, REST APIs, Auth, Notifications
 
 ---
 
-## 🏆 Achievements
+## 🏆 Highlights
 
-**Head of Events – Pratyaksh (Drama Society)**  
-📅 Jan 2023 – Present  
-- Led 15+ members, organizing 10+ cultural events with 1000+ participants  
-- Directed skits addressing social issues to spark campus-wide dialogue
-
-**Team Head – Karwaan (Sports Club)**  
-📅 Apr 2018 – Mar 2021  
-- Captained basketball team to 5+ tournament wins  
-- Boosted team performance by 20% through training and strategy
+- 🧠 Strong foundation in **Data Structures & Algorithms**
+- 📈 Led event teams & cultural fests with 1000+ audience engagement
+- 🏀 Former sports team captain – team strategy, performance & leadership
 
 ---
 
-## 📊 GitHub Stats (Optional)
+## 📫 Let's Connect!
 
-![Anurag's GitHub Stats](https://github-readme-stats.vercel.app/api?username=anuragrajpoot2468&show_icons=true&theme=radical)
+📍 Indore, India  
+📧 anuragrajpoot2468@gmail.com  
+🔗 [Portfolio](#) | [LinkedIn](#) | [GitHub](#)
 
 ---
 
-_“Code is like humor. When you have to explain it, it’s bad.” – Cory House_
-
+> “The best way to predict the future is to create it.” – Peter Drucker
