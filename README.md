@@ -30,7 +30,6 @@ I'm a passionate developer with a knack for problem-solving and a love for build
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)
 
@@ -38,7 +37,7 @@ I'm a passionate developer with a knack for problem-solving and a love for build
 
 ## 💼 Featured Projects
 
-### 🔹 **Supportify – Mental Health Social Media Platform**
+### 🔹 **Mind Space plus – Mental Health Social Media Platform**
 > A safe digital space to track moods, connect with others, and reflect on mental well-being.  
 **Stack:** React.js, Node.js, MongoDB, Tailwind CSS, JWT
 
@@ -72,7 +71,7 @@ I'm a passionate developer with a knack for problem-solving and a love for build
 📍 Indore, India
 
 📧 **anuragrajpoot2468@gmail.com**  
-🔗 [Portfolio](#) | [LinkedIn](#) 
+🔗 +91 7970233595
 
 ---
 
