@@ -1,8 +1,10 @@
 # 👋 Hey there! I'm Anurag Dangi
 
-🚀 **Software Developer** | Full Stack Web Dev🧠 **Lifelong Learner** | 🎭 **Team Leader**
+🚀 **Software Developer** | 🌐 **Full-Stack Web Developer (MERN)**  
+🧠 **DSA Enthusiast ++**
 
-I'm a passionate developer with a knack for problem-solving and a love for building full-stack web applications using the **MERN** stack. I focus on writing clean, maintainable code and thrive on turning complex problems into simple, beautiful solutions.
+I love building scalable digital products and crafting clean, efficient, and user-focused experiences.  
+I'm passionate about **MERN development, problem-solving, and continuous learning** — always leveling up 🚀
 
 ---
 
@@ -37,42 +39,46 @@ I'm a passionate developer with a knack for problem-solving and a love for build
 
 ## 💼 Featured Projects
 
-### 🔹 **Mind Space plus – Mental Health Social Media Platform**
-> A safe digital space to track moods, connect with others, and reflect on mental well-being.  
-**Stack:** React.js, Node.js, MongoDB, Tailwind CSS, JWT
+### 🔹 **Mind Space Plus – Mental Health Platform**
+> A safe digital space to track moods, share thoughts, and support mental wellness.  
 
 ### 🔹 **Study Notion – EdTech Learning Platform**
-> Empowering educators with a seamless content management system, real-time interactions, and an engaging user experience.  
-**Stack:** MERN, REST APIs, JWT Auth, Notifications
+> Create, learn, and manage courses with secure payments & role-based access.   
+
+### 🔹 **Fake News Detector – ML + Web App**
+> Real-time classifier using TF-IDF + ML to detect misleading content.  
 
 ---
 
-## 🏆 Highlights
+## 🏆 Highlights & Achievements
 
-- 🧠 Strong foundation in **Data Structures & Algorithms**
-- 🎯 Led cultural fests & events with **1000+ audience engagement**
-- 🏀 Former sports team captain — **leadership, strategy & collaboration**
+- ✅ 350+ DSA problems solved on **LeetCode**
+- 🏀 **State-level basketball player** & School Team Captain  
+- 🎭 **Head of Events — Pratyaksh Drama Society**  
+- 🌱 Constant learner — exploring next: **DevOps & System Design**
 
 ---
 
-## 📈 GitHub Stats & Trophies
+## 📈 GitHub Insights
 
-### 🏅 GitHub Trophies
+### 🏅 Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=anuragrajpoott&theme=radical&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
 
-### 📊 GitHub Stats
+### 📊 Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuragrajpoott&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuragrajpoott&layout=compact&theme=radical)
 
 ---
 
-## 📫 Let’s Connect!
+## 📫 Connect With Me
 
-📍 Indore, India
-
+📍 Indore, India  
 📧 **anuragrajpoot2468@gmail.com**  
-🔗 +91 7970233595
+📱 +91 7970233595  
+🌐 Portfolio: https://portfolio-iota-six-71.vercel.app/  
+🔗 LinkedIn: https://linkedin.com/in/anuragrajpoott  
+💻 GitHub: https://github.com/anuragrajpoott  
 
 ---
 
-> *“The best way to predict the future is to create it.”* – Peter Drucker
+> _“The best way to predict the future is to create it.” – Peter Drucker_
