@@ -1,7 +1,6 @@
 # 👋 Hey there! I'm **Anurag Dangi**
 
-🚀 **Software Developer** | 🌐 **Full-Stack Web Dev (MERN)**  
-🧠 **DSA — 350+ LeetCode** | 🎭 **Team Leader** | 🏀 **State-level Athlete**
+🚀 **Software Developer** | 🌐 **Full-Stack Web Dev (MERN)**  🧠 **DSA Enthusiast ++** 
 
 Passionate about building scalable web applications, writing clean code, and solving real problems with tech.  
 Focused on **MERN development, performance, and continuous learning**.
