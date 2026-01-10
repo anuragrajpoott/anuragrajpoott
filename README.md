@@ -4,6 +4,10 @@ Full-Stack Software Developer with strong expertise in the **MERN stack, TypeScr
 
 ---
 
+**""the best way to predict future is to create it""**
+
+---
+
 ## 🧑‍💻 Tech Stack & Skills
 
 ### 🚀 Programming Languages
