@@ -1,52 +1,27 @@
-# 👋 Hey there! I'm **Anurag Dangi**
+# 👋 Hey there! I'm **Anurag Rajpoot**
 
-🚀 **Software Developer** | 🌐 **Full-Stack Web Dev (MERN)**  🧠 **DSA Enthusiast ++** 
-
-Passionate about building scalable web applications, writing clean code, and solving real problems with tech.  
-Focused on **MERN development, performance, and continuous learning**.
-
----
-
-## 🧑‍💻 Tech Stack & Tools
-
-**Languages:** C++, JavaScript, Python, SQL  
-**Frontend:** React.js, Next.js, Redux, Tailwind CSS  
-**Backend:** Node.js, Express.js, REST APIs, JWT Auth  
-**Database:** MongoDB, MySQL  
-**Tools:** Git, GitHub, Postman, Vercel, Render  
+Full-Stack Software Developer with strong expertise in MERN stack, TypeScript, and Next.js, experienced in
+building scalable, secure, and high-performance web applications. Proven ability to optimize APIs and frontend
+performance, design clean REST architectures, and deploy cloud-ready systems. Strong foundation in DSA, SQL &
+NoSQL databases, and Agile development.
 
 ---
 
-## 💼 Experience
-
-**Software Developer Intern — IdealMinds Solutions** *(May 2025 – Present)*  
-Working on production-grade full-stack features, UI/UX improvements, secure APIs, and performance-focused components.
-
-**Web Developer — C4GT (Code for GovTech)** *(2025)*  
-Built open-source components for India's digital public infrastructure with API integrations & real-world deployment workflows.
-
-**Web Developer — Smart India Hackathon** *(2024)*  
-Contributed to a government-focused web solution in a 6-member team, developing front-end modules & backend integrations.
+## 🧑‍💻 Skills
+ 
+**Programming Languages:** C++, JavaScript, TypeScript, Python, SQL
+**Libraries & Frameworks:** React.js, Redux, Node.js, Express.js, Next.js
+**Tools & Technologies:** Git, GitHub, GitHub Actions, MongoDB, PostgreSQL, Docker
+**Concepts:** Cloud Basics, RESTful APIs, JWT Auth, CORS, Environment Configuration
 
 ---
 
-## 🚀 Projects
-
-- **Mind Space Plus** — Mental wellness journaling & mood-tracking platform  
-- **Study Notion** — EdTech platform with role-based dashboards & payments  
-- **Fake News Detector** — TF-IDF + ML model to classify text truthfulness  
-
-➡️ See pinned repos for demos & code
-
----
-
-## 🏆 Highlights & Achievements
-
-- Solved **350+ LeetCode problems** (DSA practice + consistency)  
-- **State-level Basketball Player & Team Captain**  
-- **Head of Events — Pratyaksh Drama Society**  
-- Finalist & Developer — **Smart India Hackathon**  
-- Selected — **C4GT Open Source Program**
+## 🏆Achievements
+ 
+• Smart India Hackathon (SIH) Finalist & Open Source Contributor at Code for GovTech (C4GT).
+• Solved 350+ DSA problems on LeetCode, demonstrating strong problem-solving skills.
+• Head of Events at Pratyaksh, organizing 5+ events and increasing participation by 30%.
+• Captain of Karwaan Basketball Team, leading the team to 5+ tournament wins.*
 
 ---
 
@@ -68,16 +43,6 @@ Contributed to a government-focused web solution in a 6-member team, developing 
 ### 🔥 Streak
 
 ![Streak](https://streak-stats.demolab.com?user=anuragrajpoott&theme=radical&hide_border=true&border_radius=8)
-
----
-
-## 📫 Connect With Me
-
-📍 Indore, India  
-📧 **anuragrajpooot2468@gmail.com**  
-🌐 Portfolio — https://portfolio-iota-six-71.vercel.app  
-🔗 LinkedIn — https://linkedin.com/in/anuragrajpoott  
-💻 GitHub — https://github.com/anuragrajpoott  
 
 ---
 
