@@ -1,6 +1,6 @@
 # 👋 Hi, I'm **Anurag Dangi**
 
-Full-Stack Software Developer with strong expertise in the **MERN stack, TypeScript, and Next.js**, experienced in building **scalable, secure, and high-performance web applications**. Proven ability to optimize APIs and frontend performance, design clean REST architectures, and deploy cloud-ready systems. Strong foundation in **DSA, SQL & NoSQL databases**, and **Agile development**.
+Full-Stack Software Developer with strong expertise in the **MERN stack**, experienced in building **scalable, secure, and high-performance web applications**. Proven ability to optimize APIs and frontend performance, design clean REST architectures, and deploy cloud-ready systems. Strong foundation in **DSA, databases**, and **development**.
 
 ---
 
@@ -14,7 +14,6 @@ Full-Stack Software Developer with strong expertise in the **MERN stack, TypeScr
 ![C++](https://skillicons.dev/icons?i=cpp)
 ![JavaScript](https://skillicons.dev/icons?i=javascript)
 ![TypeScript](https://skillicons.dev/icons?i=typescript)
-![Python](https://skillicons.dev/icons?i=python)
 ![SQL](https://skillicons.dev/icons?i=mysql)
 
 ### ⚙️ Libraries & Frameworks
@@ -22,33 +21,18 @@ Full-Stack Software Developer with strong expertise in the **MERN stack, TypeScr
 ![Redux](https://skillicons.dev/icons?i=redux)
 ![Node.js](https://skillicons.dev/icons?i=nodejs)
 ![Express](https://skillicons.dev/icons?i=express)
-![Next.js](https://skillicons.dev/icons?i=nextjs)
 
 ### 🛠️ Tools & Technologies
 ![Git](https://skillicons.dev/icons?i=git)
 ![GitHub](https://skillicons.dev/icons?i=github)
-![GitHub Actions](https://skillicons.dev/icons?i=githubactions)
 ![MongoDB](https://skillicons.dev/icons?i=mongodb)
-![PostgreSQL](https://skillicons.dev/icons?i=postgres)
-![Docker](https://skillicons.dev/icons?i=docker)
+
 
 ### 📚 Concepts
 - RESTful APIs  
 - JWT Authentication  
-- CORS & Security  
-- Cloud Basics  
+- CORS & Security   
 - Environment Configuration  
-
----
-
-## 💼 Experience
-
-### **SDE Intern – Ideal Minds**
-📍 Indore, MP | 🗓️ June 2025 – July 2025
-
-- Built and deployed a **full-stack MERN fitness tracking platform**, improving **user retention by 20%**.
-- Optimized backend APIs with **secure JWT authentication**, reducing **response time by 25%**.
-- Developed responsive **React components** in an Agile team, accelerating **feature delivery by 30%**.
 
 ---
 
@@ -103,10 +87,9 @@ Full-Stack Software Developer with strong expertise in the **MERN stack, TypeScr
 
 ## 🏆 Achievements
 
-- 🏅 **Smart India Hackathon (SIH) Finalist** & Open Source Contributor at **Code for GovTech (C4GT)**.
 - 💡 Solved **350+ DSA problems on LeetCode**.
 - 🎯 **Head of Events at Pratyaksh**, organized 5+ events and increased participation by **30%**.
-- 🏀 **Captain of Karwaan Basketball Team**, leading the team to **5+ tournament wins**.
+- 🏀 **Captain of Basketball Team**, leading the team to **5+ tournament wins**.
 
 ---
 
@@ -124,6 +107,5 @@ Full-Stack Software Developer with strong expertise in the **MERN stack, TypeScr
 - 📍 Indore, India
 - 📧 Email: **anuragrajpoot2468@gmail.com**
 - 💼 LinkedIn: https://www.linkedin.com/in/anuragrajpoott
-- 🌐 Portfolio: https://portfolio-iota-six-71.vercel.app/
 - 🧠 LeetCode: https://www.leetcode.com/u/anuragrajpoott
 
