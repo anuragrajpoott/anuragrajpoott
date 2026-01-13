@@ -73,8 +73,10 @@ Comfortable taking ownership from **idea → implementation → deployment**.
 
 ## 📈 GitHub Activity
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=anuragrajpoott&show_icons=true&theme=radical&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anuragrajpoott&layout=compact&theme=radical&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=anuragrajpoott&show_icons=true&theme=radical&hide_border=true&cache_seconds=86400)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anuragrajpoott&layout=compact&theme=radical&hide_border=true&cache_seconds=86400)
+
 ![GitHub Streak](https://streak-stats.demolab.com?user=anuragrajpoott&theme=radical&hide_border=true)
 
 ---
