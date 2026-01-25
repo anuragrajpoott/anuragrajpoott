@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0b1220&height=110&section=header&text=ANURAG&fontSize=56&fontColor=ffffff&fontAlignY=50" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0b1220&height=110&section=header&text=ANURAG%20RAJPOOT&fontSize=56&fontColor=ffffff&fontAlignY=50" />
 </p>
 
 <p align="center">
