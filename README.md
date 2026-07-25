@@ -2,7 +2,7 @@
 
 # Hi 👋, I'm Anurag Rajpoot
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=26&duration=3500&pause=1200&color=4F8EF7&center=true&vCenter=true&width=700&lines=Software+Engineer;Full+Stack+Developer;Backend+Developer;Building+Scalable+Applications;400%2B+LeetCode+Problems+Solved" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=26&duration=3500&pause=1200&color=4F8EF7&center=true&vCenter=true&width=700&lines=Software+Developer;Full+Stack+Web+Dev;Backend+Developer;Building+Scalable+Applications;400%2B+LeetCode+Problems+Solved" />
 
 <br/>
 
@@ -81,21 +81,11 @@ An AI-assisted CSV Import Platform focused on simplifying bulk data import throu
 
 ---
 
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=anuragrajpoott&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15"/>
-
-</p>
-
----
 
 # 📊 GitHub Statistics
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=anuragrajpoott&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
 
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuragrajpoott&layout=compact&theme=tokyonight&hide_border=true"/>
 
@@ -116,19 +106,6 @@ An AI-assisted CSV Import Platform focused on simplifying bulk data import throu
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=anuragrajpoott&theme=tokyo-night&hide_border=true"/>
 
 </p>
-
----
-
-# 🐍 Contribution Snake
-
-> Enable GitHub Actions to generate this automatically.
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/anuragrajpoott/anuragrajpoott/output/github-contribution-grid-snake.svg" />
-
-</p>
-
 
 
 ---
