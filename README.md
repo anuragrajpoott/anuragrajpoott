@@ -1,162 +1,162 @@
 <div align="center">
 
-# Anurag Rajpoot
+# Hi, I'm Anurag Rajpoot 👋
 
-### Software Engineer • Full-Stack Developer
-
-Building scalable, secure and user-focused web applications with React, Node.js and MongoDB while continuously improving my problem-solving skills through Data Structures & Algorithms.
+Building scalable, secure and production-ready full-stack web applications with modern technologies while continuously improving my problem-solving skills through Data Structures & Algorithms.
 
 <br>
 
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
+<a href="https://www.linkedin.com/in/YOUR-LINKEDIN/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
 <a href="https://portfolio-chi-sage-56.vercel.app">
-    <img src="https://img.shields.io/badge/Portfolio-111111?style=flat-square&logo=vercel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
 
-<a href="https://leetcode.com/YOUR_USERNAME">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black"/>
+<a href="https://leetcode.com/u/YOUR_LEETCODE_USERNAME/">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
 </a>
 
-<a href="mailto:YOUR_EMAIL">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
+<a href="mailto:YOUR_EMAIL@gmail.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
 </div>
 
 ---
 
-## About
+# 🚀 About Me
 
-I'm an Electronics Engineering graduate from **IET DAVV, Indore** with a strong interest in backend engineering and full-stack development. I enjoy designing REST APIs, building secure authentication systems, and creating scalable applications using the MERN stack.
-
-Beyond development, I've solved **500+ LeetCode problems**, which has strengthened my understanding of algorithms, data structures, and writing efficient code. I'm always looking for opportunities to learn, build impactful products, and grow as a software engineer.
+I'm a recent **B.E. Electronics Engineering** graduate from **IET DAVV, Indore**, passionate about designing scalable backend systems and building modern full-stack web applications. I enjoy creating clean REST APIs, implementing secure authentication systems, and developing responsive user experiences using the **MERN Stack**. Alongside development, I've solved **400+ LeetCode problems** in **C++**, strengthening my algorithmic thinking and problem-solving abilities. I'm always eager to learn new technologies, build impactful software, and contribute to meaningful products.
 
 ---
 
-## Tech Stack
+# 💻 Tech Stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=cpp,js,ts,python,react,redux,nodejs,express,mongodb,tailwind,git,github,linux,postman,vscode&perline=8"/>
+<img src="https://skillicons.dev/icons?i=cpp,js,ts,python,react,redux,nodejs,express,mongodb,tailwind,git,github,vscode,linux,postman,vercel&perline=8" />
 
 </div>
 
 ---
 
-## Featured Projects
+# 📌 Featured Projects
 
 <table>
-
 <tr>
 
 <td width="33%" valign="top">
 
-### 📚 Learning Management System
+## 📚 Learning Management System
 
-Secure learning platform with authentication, payments and role-based access.
+A production-ready Learning Management System built using the MERN Stack that enables instructors to create and manage courses while allowing students to purchase and access learning content securely.
 
-**Tech**
-
-React • Node.js • Express • MongoDB
-
-**Highlights**
+### Features
 
 - JWT Authentication
-- Razorpay Integration
+- Email OTP Verification
+- Role-based Authorization
+- Razorpay Payment Integration
+- Course Management
 - Instructor Dashboard
 - Student Dashboard
-- Course Management
+- Responsive UI
 
 <p align="center">
-<a href="REPOSITORY_LINK">Repository</a> •
-<a href="LIVE_LINK">Live Demo</a>
+<a href="YOUR_LMS_REPO">Repository</a> •
+<a href="YOUR_LMS_DEMO">Live Demo</a>
 </p>
 
 </td>
 
 <td width="33%" valign="top">
 
-### 🤖 AI News Credibility Analyzer
+## 🤖 AI News Credibility Analyzer
 
-AI-assisted application that analyses the credibility of online news using machine learning.
+An AI-powered web application that analyzes the credibility of news articles using machine learning and natural language processing techniques.
 
-**Tech**
+### Features
 
-React • Node.js • Express • MongoDB • Python
-
-**Highlights**
-
-- AI-powered Analysis
+- AI-powered News Analysis
+- Confidence Score
 - Secure Authentication
-- REST APIs
-- Confidence Scoring
+- REST API Integration
+- Modern Dashboard
+- Responsive Design
 
 <p align="center">
-<a href="REPOSITORY_LINK">Repository</a> •
-<a href="LIVE_LINK">Live Demo</a>
+<a href="YOUR_AI_NEWS_REPO">Repository</a> •
+<a href="YOUR_AI_NEWS_DEMO">Live Demo</a>
 </p>
 
 </td>
 
 <td width="33%" valign="top">
 
-### 🚀 GrowEasy AI CSV Importer
+## 🚀 GrowEasy AI CSV Importer
 
-AI-assisted CSV import solution focused on validation, automation and clean workflows.
+An AI-assisted CSV import platform focused on simplifying data import workflows through validation and automation.
 
-**Tech**
-
-React • Node.js • Express • MongoDB
-
-**Highlights**
+### Features
 
 - CSV Processing
+- AI-assisted Import Workflow
 - Data Validation
-- AI Workflow
+- Secure Backend
 - REST APIs
+- Modern UI
 
 <p align="center">
-<a href="REPOSITORY_LINK">Repository</a> •
-<a href="LIVE_LINK">Live Demo</a>
+<a href="YOUR_CSV_REPO">Repository</a> •
+<a href="YOUR_CSV_DEMO">Live Demo</a>
 </p>
 
 </td>
 
 </tr>
-
 </table>
 
 ---
 
-## GitHub Statistics
+# 📊 GitHub Statistics
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&theme=transparent"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&theme=transparent"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img width="100%" src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 ---
 
-## Achievements
+# 📈 Contribution Graph
 
-- Solved **500+ LeetCode** problems
-- Smart India Hackathon Finalist
-- State Basketball Player
-- Software Engineer Intern at Ideal Minds
-- Passionate about backend engineering and scalable systems
+<div align="center">
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+
+</div>
 
 ---
 
 <div align="center">
 
-Thanks for stopping by!
+### Thanks for visiting my profile! ⭐
 
-I'm always interested in collaborating on meaningful projects and connecting with fellow developers.
+If you like my work, consider giving a ⭐ to my repositories.
 
 </div>
