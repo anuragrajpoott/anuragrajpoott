@@ -1,46 +1,73 @@
-<h1 align="center">Hi, I'm Anurag Rajpoot 👋</h1>
+<h1 align="center">Hi, I'm Anurag Rajpoot</h1>
+
 <p align="center">
-  Full-Stack Software Engineer focused on building scalable web applications.
+  Software Engineer focused on building secure, scalable, and maintainable web applications.
 </p>
 
 <p align="center">
   <a href="https://linkedin.com/in/anuragrajpoott">LinkedIn</a> •
-  <a href="mailto:anuragrajpoot2468@gmail.com">Email</a> •
+  <a href="https://portfolio-chi-sage-56.vercel.app/">Portfolio</a> •
   <a href="https://leetcode.com/u/anuragrajpoott/">LeetCode</a> •
-  <a href="https://github.com/anuragrajpoott">GitHub</a>
+  <a href="mailto:anuragrajpoot2468@gmail.com">Email</a>
 </p>
 
 ---
 
-## About Me
+## About
 
-- Full-stack engineer specializing in the MERN stack
-- Strong focus on scalable backend systems and clean architecture
-- Interested in performance optimization, system design, and developer experience
-- Solving problems on LeetCode & building production-ready applications
+I'm a final-year Electronics undergraduate at IET DAVV, Indore, passionate about building full-stack web applications using the MERN stack.
+
+I enjoy designing clean backend architectures, developing secure REST APIs, and creating applications that are scalable, maintainable, and user-focused.
+
+Alongside development, I've solved 477+ LeetCode problems to strengthen my problem-solving skills and continuously improve as a software engineer.
+
+---
 
 ## Tech Stack
 
-**Languages:** C++, JavaScript, TypeScript  
-**Frontend:** React, Redux, Tailwind CSS, HTML, CSS  
-**Backend:** Node.js, Express.js  
-**Database:** MongoDB  
-**Tools:** Git, GitHub, Postman, Linux, VS Code, Vercel
+**Languages**  
+C++ • JavaScript • TypeScript • Python • SQL
 
-## Projects
+**Frontend**  
+React.js • Redux Toolkit • Tailwind CSS • HTML • CSS
 
-### Study Notion
-EdTech platform with authentication, role-based access, payments, and secure REST APIs.
+**Backend**  
+Node.js • Express.js
 
-**Stack:** React, Node.js, Express, MongoDB
+**Database**  
+MongoDB
 
-### News Check
-Fake news detection platform integrating machine learning predictions into a web application.
+**Tools & Platforms**  
+Git • GitHub • Postman • Linux • VS Code • Vercel • Render
 
-**Stack:** React, Node.js
+---
+
+## Featured Projects
+
+### Learning Management System
+
+Full-stack learning platform featuring authentication, role-based access, course management, and Razorpay payment integration.
+
+**Stack:** React.js • Node.js • Express.js • MongoDB
+
+---
+
+### AI News Credibility Analyzer
+
+AI-powered application that analyzes news articles using LLM APIs and generates credibility assessments with supporting explanations.
+
+**Stack:** React.js • Node.js • Express.js • MongoDB
+
+---
+
+### GrowEasy AI CSV Importer
+
+Full-stack application for importing, validating, and processing CSV data with AI-assisted workflows.
+
+**Stack:** React.js • Node.js • Express.js • MongoDB
 
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anuragrajpoott&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=anuragrajpoott&show_icons=true&hide_border=true&rank_icon=github" height="165" />
 </p>
