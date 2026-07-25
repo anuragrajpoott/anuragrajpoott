@@ -1,59 +1,86 @@
 <div align="center">
 
-# Hi, I'm Anurag Rajpoot 👋
+# Hi 👋, I'm Anurag Rajpoot
 
-Building scalable, secure and production-ready full-stack web applications with modern technologies while continuously improving my problem-solving skills through Data Structures & Algorithms.
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=26&duration=3500&pause=1200&color=4F8EF7&center=true&vCenter=true&width=700&lines=Software+Engineer;Full+Stack+Developer;Backend+Developer;Building+Scalable+Applications;400%2B+LeetCode+Problems+Solved" />
 
-<br>
+<br/>
 
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+<a href="YOUR_PORTFOLIO">
+<img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
-<a href="https://portfolio-chi-sage-56.vercel.app">
-  <img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white" />
+<a href="YOUR_LINKEDIN">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://leetcode.com/u/YOUR_LEETCODE_USERNAME/">
-  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+<a href="YOUR_LEETCODE">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL@gmail.com">
-  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+<a href="mailto:YOUR_EMAIL">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=anuragrajpoott&label=Profile%20Views&color=4F8EF7&style=for-the-badge"/>
+
+<img src="https://img.shields.io/github/followers/anuragrajpoott?style=for-the-badge"/>
 
 </div>
 
 ---
 
-# 🚀 About Me
+# 💫 About Me
 
-I'm a recent **B.E. Electronics Engineering** graduate from **IET DAVV, Indore**, passionate about designing scalable backend systems and building modern full-stack web applications. I enjoy creating clean REST APIs, implementing secure authentication systems, and developing responsive user experiences using the **MERN Stack**. Alongside development, I've solved **400+ LeetCode problems** in **C++**, strengthening my algorithmic thinking and problem-solving abilities. I'm always eager to learn new technologies, build impactful software, and contribute to meaningful products.
+I'm a **Software Engineer** passionate about building scalable, secure and production-ready web applications.
+
+- 🎓 B.E. Electronics Engineering Graduate (2026) from **IET DAVV, Indore**
+- 💻 Full Stack Developer specializing in the **MERN Stack**
+- ⚙️ Interested in Backend Development, REST APIs & System Design
+- 🔐 Love building secure authentication and authorization systems
+- 🧩 Solved **400+ LeetCode problems** in **C++**
+- 🌱 Currently exploring **TypeScript, Next.js, Docker & Cloud**
+- 🚀 Always learning, building and improving
 
 ---
 
 # 💻 Tech Stack
 
-<div align="center">
+### Languages
 
-<img src="https://skillicons.dev/icons?i=cpp,js,ts,python,react,redux,nodejs,express,mongodb,tailwind,git,github,vscode,linux,postman,vercel&perline=8" />
+<p align="center">
+<img src="https://skillicons.dev/icons?i=cpp,js,ts,python,html,css" />
+</p>
 
-</div>
+### Frontend
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=react,redux,tailwind,vite" />
+</p>
+
+### Backend
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
+</p>
+
+### Tools & Platforms
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=git,github,linux,postman,vscode,vercel" />
+</p>
 
 ---
 
-# 📌 Featured Projects
-
-<table>
-<tr>
-
-<td width="33%" valign="top">
+# 🚀 Featured Projects
 
 ## 📚 Learning Management System
 
-A production-ready Learning Management System built using the MERN Stack that enables instructors to create and manage courses while allowing students to purchase and access learning content securely.
+A production-ready Learning Management System built with the MERN Stack that enables instructors to create and manage courses while allowing students to purchase and access learning content securely.
 
-### Features
+### Highlights
 
 - JWT Authentication
 - Email OTP Verification
@@ -62,101 +89,121 @@ A production-ready Learning Management System built using the MERN Stack that en
 - Course Management
 - Instructor Dashboard
 - Student Dashboard
-- Responsive UI
+- Responsive Design
 
-<p align="center">
-<a href="YOUR_LMS_REPO">Repository</a> •
-<a href="YOUR_LMS_DEMO">Live Demo</a>
-</p>
+🔗 **Repository:** YOUR_LMS_REPO
 
-</td>
+🌐 **Live Demo:** YOUR_LMS_DEMO
 
-<td width="33%" valign="top">
+---
 
 ## 🤖 AI News Credibility Analyzer
 
-An AI-powered web application that analyzes the credibility of news articles using machine learning and natural language processing techniques.
+An AI-powered application that predicts the credibility of news articles using Machine Learning and NLP techniques.
 
-### Features
+### Highlights
 
-- AI-powered News Analysis
+- AI-powered Analysis
 - Confidence Score
 - Secure Authentication
-- REST API Integration
-- Modern Dashboard
-- Responsive Design
+- REST APIs
+- Responsive Dashboard
+- Modern UI
 
-<p align="center">
-<a href="YOUR_AI_NEWS_REPO">Repository</a> •
-<a href="YOUR_AI_NEWS_DEMO">Live Demo</a>
-</p>
+🔗 **Repository:** YOUR_AI_REPO
 
-</td>
+🌐 **Live Demo:** YOUR_AI_DEMO
 
-<td width="33%" valign="top">
+---
 
 ## 🚀 GrowEasy AI CSV Importer
 
-An AI-assisted CSV import platform focused on simplifying data import workflows through validation and automation.
+An AI-assisted CSV Import Platform focused on simplifying bulk data import through validation and intelligent automation.
 
-### Features
+### Highlights
 
 - CSV Processing
-- AI-assisted Import Workflow
+- AI-assisted Workflow
 - Data Validation
 - Secure Backend
 - REST APIs
-- Modern UI
+- Responsive Interface
+
+🔗 **Repository:** YOUR_CSV_REPO
+
+🌐 **Live Demo:** YOUR_CSV_DEMO
+
+---
+
+# 🏆 GitHub Trophies
 
 <p align="center">
-<a href="YOUR_CSV_REPO">Repository</a> •
-<a href="YOUR_CSV_DEMO">Live Demo</a>
+
+<img src="https://github-profile-trophy.vercel.app/?username=anuragrajpoott&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15"/>
+
 </p>
-
-</td>
-
-</tr>
-</table>
 
 ---
 
 # 📊 GitHub Statistics
 
-<div align="center">
+<p align="center">
 
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=anuragrajpoott&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
 
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuragrajpoott&layout=compact&theme=tokyonight&hide_border=true"/>
 
-</div>
+</p>
 
-<br>
+<p align="center">
 
-<div align="center">
+<img width="75%" src="https://streak-stats.demolab.com?user=anuragrajpoott&theme=tokyonight&hide_border=true"/>
 
-<img width="100%" src="https://streak-stats.demolab.com?user=anuragrajpoott&theme=tokyonight&hide_border=true"/>
-
-</div>
+</p>
 
 ---
 
 # 📈 Contribution Graph
 
-<div align="center">
+<p align="center">
 
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=anuragrajpoott&theme=tokyo-night&hide_border=true"/>
 
-</div>
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+> Enable GitHub Actions to generate this automatically.
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/anuragrajpoott/anuragrajpoott/output/github-contribution-grid-snake.svg" />
+
+</p>
 
 
-</div>
 
 ---
 
 <div align="center">
 
-### Thanks for visiting my profile! ⭐
+> **"First, solve the problem. Then, write the code."**
+>
+> — John Johnson
+
+</div>
+
+---
+
+
+<br/><br/>
+
+### ⭐ Thanks for visiting my profile!
 
 If you like my work, consider giving a ⭐ to my repositories.
+
+Happy Coding 🚀
 
 </div>
