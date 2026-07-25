@@ -34,29 +34,12 @@ I'm a recent **B.E. Electronics Engineering** graduate from **IET DAVV, Indore**
 
 # 💻 Tech Stack
 
-### Languages
+
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=cpp,js,ts,python,html,css" />
+<img src="https://skillicons.dev/icons?i=cpp,js,ts,python,html,css,react,redux,tailwind,vite,nodejs,express,mongodb,git,github,linux,postman,vscode,vercel" />
 </p>
 
-### Frontend
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=react,redux,tailwind,vite" />
-</p>
-
-### Backend
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
-</p>
-
-### Tools & Platforms
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=git,github,linux,postman,vscode,vercel" />
-</p>
 
 ---
 
@@ -85,11 +68,6 @@ An AI-assisted CSV Import Platform focused on simplifying bulk data import throu
 # 📊 GitHub Statistics
 
 <p align="center">
-
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuragrajpoott&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
 
 <p align="center">
 
