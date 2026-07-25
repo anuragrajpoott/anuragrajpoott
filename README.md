@@ -22,27 +22,13 @@
 <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=anuragrajpoott&label=Profile%20Views&color=4F8EF7&style=for-the-badge"/>
-
-<img src="https://img.shields.io/github/followers/anuragrajpoott?style=for-the-badge"/>
-
 </div>
 
 ---
 
 # 💫 About Me
 
-I'm a **Software Engineer** passionate about building scalable, secure and production-ready web applications.
-
-- 🎓 B.E. Electronics Engineering Graduate (2026) from **IET DAVV, Indore**
-- 💻 Full Stack Developer specializing in the **MERN Stack**
-- ⚙️ Interested in Backend Development, REST APIs & System Design
-- 🔐 Love building secure authentication and authorization systems
-- 🧩 Solved **400+ LeetCode problems** in **C++**
-- 🌱 Currently exploring **TypeScript, Next.js, Docker & Cloud**
-- 🚀 Always learning, building and improving
+I'm a recent **B.E. Electronics Engineering** graduate from **IET DAVV, Indore**, passionate about designing scalable backend systems and building modern full-stack web applications. I enjoy creating clean REST APIs, implementing secure authentication systems, and developing responsive user experiences using the **MERN Stack**. Alongside development, I've solved **400+ LeetCode problems** in **C++**, strengthening my algorithmic thinking and problem-solving abilities. I'm always eager to learn new technologies, build impactful software, and contribute to meaningful products.
 
 ---
 
@@ -80,58 +66,18 @@ I'm a **Software Engineer** passionate about building scalable, secure and produ
 
 A production-ready Learning Management System built with the MERN Stack that enables instructors to create and manage courses while allowing students to purchase and access learning content securely.
 
-### Highlights
-
-- JWT Authentication
-- Email OTP Verification
-- Role-based Authorization
-- Razorpay Payment Integration
-- Course Management
-- Instructor Dashboard
-- Student Dashboard
-- Responsive Design
-
-🔗 **Repository:** YOUR_LMS_REPO
-
-🌐 **Live Demo:** YOUR_LMS_DEMO
-
 ---
 
 ## 🤖 AI News Credibility Analyzer
 
 An AI-powered application that predicts the credibility of news articles using Machine Learning and NLP techniques.
 
-### Highlights
-
-- AI-powered Analysis
-- Confidence Score
-- Secure Authentication
-- REST APIs
-- Responsive Dashboard
-- Modern UI
-
-🔗 **Repository:** YOUR_AI_REPO
-
-🌐 **Live Demo:** YOUR_AI_DEMO
 
 ---
 
 ## 🚀 GrowEasy AI CSV Importer
 
 An AI-assisted CSV Import Platform focused on simplifying bulk data import through validation and intelligent automation.
-
-### Highlights
-
-- CSV Processing
-- AI-assisted Workflow
-- Data Validation
-- Secure Backend
-- REST APIs
-- Responsive Interface
-
-🔗 **Repository:** YOUR_CSV_REPO
-
-🌐 **Live Demo:** YOUR_CSV_DEMO
 
 ---
 
