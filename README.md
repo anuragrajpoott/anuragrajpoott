@@ -9,19 +9,19 @@ Building secure, scalable and production-ready full-stack web applications.
 <br>
 
 <a href="https://linkedin.com/in/anuragrajpoott">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="https://portfolio-chi-sage-56.vercel.app">
-  <img src="https://img.shields.io/badge/Portfolio-111111?style=flat&logo=vercel&logoColor=white">
+<img src="https://img.shields.io/badge/Portfolio-111111?style=flat-square&logo=vercel&logoColor=white"/>
 </a>
 
 <a href="https://leetcode.com/u/anuragrajpoott">
-  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=white">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white"/>
 </a>
 
 <a href="mailto:anuragrajpoot2468@gmail.com">
-  <img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white">
+<img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
 </a>
 
 </div>
@@ -30,19 +30,37 @@ Building secure, scalable and production-ready full-stack web applications.
 
 ## About
 
-I'm a **Software Engineer** and a recent Electronics graduate from **IET DAVV, Indore**.
+I'm a **recent Electronics graduate** from **IET DAVV, Indore**, passionate about building modern full-stack web applications using the **MERN Stack**.
 
-I enjoy building full-stack web applications using the **MERN Stack**, with a strong interest in backend development, clean architecture and scalable REST APIs.
+I enjoy designing clean backend architectures, developing secure REST APIs, and building software that is scalable, maintainable, and user-focused.
 
-I've solved **400+ LeetCode problems** and enjoy turning ideas into simple, maintainable software.
+Alongside development, I've solved **400+ LeetCode problems** to strengthen my problem-solving skills and continuously improve as a software engineer.
 
 ---
 
-## Tech
+## Tech Stack
 
 <p>
 
-<img src="https://skillicons.dev/icons?i=cpp,js,ts,python,react,redux,nodejs,mongodb,git,github,vscode,linux&perline=6"/>
+<img src="https://skillicons.dev/icons?i=cpp,js,ts,python&theme=light"/>
+
+</p>
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=react,redux,tailwind,html,css&theme=light"/>
+
+</p>
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb&theme=light"/>
+
+</p>
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=git,github,postman,linux,vscode,vercel&theme=light"/>
 
 </p>
 
@@ -52,32 +70,40 @@ I've solved **400+ LeetCode problems** and enjoy turning ideas into simple, main
 
 ### 📚 Learning Management System
 
-Modern learning platform with authentication, role-based access, payments and course management.
+Modern learning platform featuring JWT authentication, role-based access, course management and Razorpay payment integration.
 
-**React · Node.js · Express · MongoDB**
+**React.js • Node.js • Express.js • MongoDB**
 
-<br>
-
-### 🤖 AI News Credibility Analyzer
-
-AI-powered web application that analyzes news articles using LLM APIs and generates credibility assessments.
-
-**React · Node.js · Express · MongoDB**
-
-<br>
-
-### 📊 GrowEasy AI CSV Importer
-
-AI-assisted CSV processing platform for importing, validating and managing structured data.
-
-**React · Node.js · Express · MongoDB**
+🔗 **Repository:** https://github.com/anuragrajpoott/study_notion
 
 ---
 
+### 🤖 AI News Credibility Analyzer
+
+AI-powered application that analyzes news articles using LLM APIs and generates credibility assessments with supporting explanations.
+
+**React.js • Node.js • Express.js • MongoDB**
+
+🔗 **Repository:** https://github.com/anuragrajpoott/ai_news_credibility_analyzer
+
+---
+
+### 📊 GrowEasy AI CSV Importer
+
+Full-stack application for importing, validating and processing CSV data with AI-assisted workflows.
+
+**React.js • Node.js • Express.js • MongoDB**
+
+🔗 **Repository:** https://github.com/anuragrajpoott/groweasy_ai_csv_importer
+
+---
+
+## GitHub Stats
+
 <div align="center">
 
-### Currently
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=anuragrajpoott&show_icons=true&hide_border=true&theme=github_dark&rank_icon=github"/>
 
-Learning System Design • Building Full-Stack Applications • Looking for Software Engineer Opportunities
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuragrajpoott&layout=compact&hide_border=true&theme=github_dark"/>
 
 </div>
