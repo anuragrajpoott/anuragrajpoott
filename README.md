@@ -1,110 +1,110 @@
 <div align="center">
 
-# Hi 👋, I'm Anurag Rajpoot
+# Hi, I'm Anurag Rajpoot 👋
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=26&duration=3500&pause=1200&color=4F8EF7&center=true&vCenter=true&width=700&lines=Software+Developer;Full+Stack+Web+Dev;Backend+Developer;Building+Scalable+Applications;400%2B+LeetCode+Problems+Solved" />
+Full-Stack Software Developer passionate about building scalable, secure, and production-ready web applications.
 
-<br/>
-
-<a href="YOUR_PORTFOLIO">
-<img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-
-<a href="YOUR_LINKEDIN">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="YOUR_LEETCODE">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-</a>
-
-<a href="mailto:YOUR_EMAIL">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+<p>
+  <a href="https://portfolio-chi-sage-56.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/anuragrajpoott">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.leetcode.com/u/anuragrajpoott">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  </a>
+  <a href="mailto:anuragrajpoot2468@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
 </div>
 
 ---
 
-# 💫 About Me
+## About Me
 
-I'm a recent **B.E. Electronics Engineering** graduate from **IET DAVV, Indore**, passionate about designing scalable backend systems and building modern full-stack web applications. I enjoy creating clean REST APIs, implementing secure authentication systems, and developing responsive user experiences using the **MERN Stack**. Alongside development, I've solved **400+ LeetCode problems** in **C++**, strengthening my algorithmic thinking and problem-solving abilities. I'm always eager to learn new technologies, build impactful software, and contribute to meaningful products.
+- 🎓 B.E.in Electronics, **IET DAVV, Indore (2026 Graduate)**
+- 💻 Full-Stack Developer specialising in the **MERN Stack**
+- 🧩 Solved **450+ LeetCode** problems in **C++**
+- 🚀 Built scalable full-stack web applications with secure authentication and REST APIs
+- 🌱 Currently learning **Docker, System Design, and Cloud Technologies**
+- 🎯 Looking for **Software Engineer (SDE)** opportunities
 
 ---
 
-# 💻 Tech Stack
-
-
+## Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=cpp,js,ts,python,html,css,react,redux,tailwind,vite,nodejs,express,mongodb,git,github,linux,postman,vscode,vercel" />
-</p>
-
-
----
-
-# 🚀 Featured Projects
-
-## 📚 Learning Management System
-
-A production-ready Learning Management System built with the MERN Stack that enables instructors to create and manage courses while allowing students to purchase and access learning content securely.
-
----
-
-## 🤖 AI News Credibility Analyzer
-
-An AI-powered application that predicts the credibility of news articles using Machine Learning and NLP techniques.
-
-
----
-
-## 🚀 GrowEasy AI CSV Importer
-
-An AI-assisted CSV Import Platform focused on simplifying bulk data import through validation and intelligent automation.
-
----
-
-
-# 📊 GitHub Statistics
-
-<p align="center">
-
-<p align="center">
-
-<img width="75%" src="https://streak-stats.demolab.com?user=anuragrajpoott&theme=tokyonight&hide_border=true"/>
-
+<img src="https://skillicons.dev/icons?i=cpp,js,ts,react,redux,nodejs,express,mongodb,tailwind,vite,git,github,linux,postman,vercel,vscode" />
 </p>
 
 ---
 
-# 📈 Contribution Graph
+## Featured Projects
 
-<p align="center">
+### 📚 Learning Management System
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=anuragrajpoott&theme=tokyo-night&hide_border=true"/>
+Production-ready MERN platform enabling instructors to create and manage courses while allowing students to purchase and access content securely.
 
-</p>
+**Tech Stack**
 
+`React` `Node.js` `Express` `MongoDB` `JWT` `Razorpay`
+
+**Highlights**
+
+- Role-Based Authentication
+- Secure Payments
+- Course Management
+- REST APIs
+
+🔗 **Live Demo** • **Repository**
 
 ---
+
+### 🤖 AI News Credibility Analyzer
+
+Machine Learning powered web application that predicts the credibility of news articles using NLP techniques.
+
+**Tech Stack**
+
+`React` `Python` `Flask` `Machine Learning`
+
+🔗 **Repository**
+
+---
+
+### 📊 GrowEasy AI CSV Importer
+
+AI-assisted CSV import platform focused on data validation, mapping, and bulk import automation.
+
+**Tech Stack**
+
+`React` `Node.js` `Express`
+
+🔗 **Repository**
+
+---
+
+## Achievements
+
+- 🏆 Solved **500+ LeetCode** problems
+- 🎯 Smart India Hackathon Finalist
+- 🚀 Built multiple production-ready MERN applications
+
+---
+
+## GitHub Stats
 
 <div align="center">
 
-> **"First, solve the problem. Then, write the code."**
->
-> — John Johnson
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=anuragrajpoott&show_icons=true&hide_border=true&rank_icon=github&theme=transparent" />
 
-</div>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuragrajpoott&layout=compact&hide_border=true&theme=transparent" />
 
----
+<br>
 
-
-<br/><br/>
-
-### ⭐ Thanks for visiting my profile!
-
-If you like my work, consider giving a ⭐ to my repositories.
-
-Happy Coding 🚀
+<img width="75%" src="https://streak-stats.demolab.com?user=anuragrajpoott&theme=transparent&hide_border=true"/>
 
 </div>
