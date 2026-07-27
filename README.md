@@ -120,24 +120,14 @@ AI-assisted CSV import platform designed to simplify bulk data imports through i
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=anuragrajpoott&show_icons=true&rank_icon=github&hide_border=true&theme=github_dark" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=anuragrajpoott&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuragrajpoott&layout=compact&hide_border=true&theme=github_dark" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuragrajpoott&layout=compact&theme=tokyonight&hide_border=true"/>
 
 <br>
 
-<img width="75%" src="https://streak-stats.demolab.com?user=anuragrajpoott&theme=github-dark&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=anuragrajpoott&theme=tokyonight&hide_border=true"/>
 
 </div>
 
----
 
-## Let's Connect
-
-<p align="center">
-  <a href="https://portfolio-chi-sage-56.vercel.app">Portfolio</a> •
-  <a href="https://github.com/anuragrajpoott">GitHub</a> •
-  <a href="https://www.linkedin.com/in/anuragrajpoott">LinkedIn</a> •
-  <a href="https://leetcode.com/u/anuragrajpoott">LeetCode</a> •
-  <a href="mailto:anuragrajpoot2468@gmail.com">Email</a>
-</p>
