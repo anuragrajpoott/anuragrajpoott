@@ -2,13 +2,9 @@
 
 # Hi, I'm Anurag Rajpoot 👋
 
-### Full-Stack Software Developer | MERN Stack | Problem Solver
+### Full-Stack Software Developer
 
-Building scalable, secure, and production-ready web applications while continuously improving my problem-solving skills through Data Structures & Algorithms.
-
-**🎓 B.E. Electronics Engineering • IET DAVV, Indore • Class of 2026**
-
-**💼 Open to Full-Time Software Engineer (SDE) Opportunities**
+Building scalable, secure, and production-ready web applications while continuously improving my problem-solving skills.
 
 <br>
 
@@ -38,9 +34,10 @@ Building scalable, secure, and production-ready web applications while continuou
 
 # 👨‍💻 About Me
 
-- 🎓 B.E. in Electronics Engineering from **IET DAVV, Indore** (2026)
+- 🎓 B.E. in Electronics from **IET DAVV, Indore** (2026 Graduate)
 - 💻 Full-Stack Developer specialising in the **MERN Stack**
 - 🧩 Solved **500+ LeetCode** problems using **C++**
+- 🏅 Smart India Hackathon (SIH) Finalist
 - 🚀 Built production-ready applications featuring secure authentication, payment integration, AI-powered workflows, and RESTful APIs
 - 🌱 Currently learning **Docker**, **System Design**, and **Cloud Technologies**
 - 🎯 Seeking **Software Engineer (SDE)** opportunities
@@ -67,17 +64,12 @@ Building scalable, secure, and production-ready web applications while continuou
 <img src="https://skillicons.dev/icons?i=nodejs,express" />
 </p>
 
-### Database
+### Database & Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=mongodb" />
+<img src="https://skillicons.dev/icons?i=mongodb,git,github,docker,postman,vercel,vscode" />
 </p>
 
-### Tools & Platforms
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,docker,postman,vercel,vscode" />
-</p>
 
 ---
 
@@ -89,24 +81,6 @@ Building scalable, secure, and production-ready web applications while continuou
 | **Truth Lens** | AI-powered News Credibility Analyzer using Machine Learning and NLP | React • Python • Flask • ML | [Live](https://ai-news-credibility-analyzer.vercel.app) • [Repo](https://github.com/anuragrajpoott/ai_news_credibility_analyzer) |
 | **GrowEasy AI CSV Importer** | AI-assisted CSV importer with intelligent validation and mapping | React • Node • Express • MongoDB • OpenAI | [Live](https://groweasy-ai-csv-importer-red.vercel.app) • [Repo](https://github.com/anuragrajpoott/groweasy_ai_csv_importer) |
 
----
-
-# 🏆 Highlights
-
-- 🧩 Solved **500+ LeetCode** problems
-- 🏅 Smart India Hackathon (SIH) Finalist
-- 💼 Completed Software Development Internship
-- 🚀 Built multiple full-stack MERN applications from scratch
-
----
-
-# 🌱 Currently Learning
-
-- Docker
-- System Design
-- Cloud Fundamentals
-- Backend Architecture
-- Performance Optimization
 
 ---
 
@@ -123,18 +97,6 @@ Building scalable, secure, and production-ready web applications while continuou
 <img src="https://streak-stats.demolab.com?user=anuragrajpoott&theme=github-dark&hide_border=true" />
 
 </div>
-
----
-
-# 📬 Let's Connect
-
-I'm always interested in discussing software engineering, full-stack development, open-source, and exciting opportunities.
-
-- 🌐 **Portfolio:** https://portfolio-chi-sage-56.vercel.app
-- 💼 **LinkedIn:** https://www.linkedin.com/in/anuragrajpoott
-- 💻 **GitHub:** https://github.com/anuragrajpoott
-- 🧩 **LeetCode:** https://leetcode.com/u/anuragrajpoott
-- 📧 **Email:** anuragrajpoot2468@gmail.com
 
 ---
 
