@@ -37,7 +37,7 @@ Full-Stack Software Developer passionate about building scalable, secure, and pr
 ## Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=cpp,js,ts,react,redux,nodejs,express,mongodb,tailwind,vite,git,github,linux,postman,vercel,vscode" />
+<img src="https://skillicons.dev/icons?i=cpp,js,ts,react,redux,nodejs,express,mongodb,tailwind,vite,git,github,postman,vercel,vscode" />
 </p>
 
 ---
