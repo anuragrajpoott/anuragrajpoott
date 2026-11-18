@@ -1,4 +1,4 @@
-# Hi, I'm Anurag Dangi 👋
+# Hi, I'm Anurag Rajpoot 👋
 
 **Full Stack SDE Intern at MyDukan** · Indore, India · Open to full-time SDE roles
 
